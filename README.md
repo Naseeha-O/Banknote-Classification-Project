@@ -6,9 +6,8 @@ South African banknote classification using image processing and machine learnin
 2. Tarika Sukdeoa
 3. Naseeha Osman
 
-## Dataset download:
-Due to file size limit, the dataset is hosted on Google Drive.
-**Download link:** https://drive.google.com/drive/folders/14HiT1vnt0YpCUml-zP_1FxHD-ceoX9rA?usp=sharing
+## Dataset availability:
+https://drive.google.com/drive/folders/14HiT1vnt0YpCUml-zP_1FxHD-ceoX9rA?usp=sharing
 
 ## Instructions:
 1. Upload the notebook to Google Colab
