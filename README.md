@@ -2,9 +2,9 @@
 South African banknote classification using image processing and machine learning.
 
 **Created by:**
-Caitlin Fogg
-Tarika Sukdeoa
-Naseeha Osman
+-Caitlin Fogg
+-Tarika Sukdeoa
+-Naseeha Osman
 
 ## Dataset download:
 Due to file size limit, the dataset is hosted on Google Drive.
@@ -14,8 +14,8 @@ Due to file size limit, the dataset is hosted on Google Drive.
 1. Upload the notebook to Google Colab
 2. Upload the dataset to your Google Drive
 3. Update paths in the code:
-   RAW_IMAGES_FOLDER = "/content/drive/MyDrive/your_path/raw_images"
-   OUTPUT_FOLDER = "/content/drive/MyDrive/your_path/banknote_dataset"
+   -RAW_IMAGES_FOLDER = "/content/drive/MyDrive/your_path/raw_images"
+   -OUTPUT_FOLDER = "/content/drive/MyDrive/your_path/banknote_dataset"
 4. Run all cells sequentially
 
  
